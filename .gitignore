@@ -1,0 +1,13 @@
+# R
+.Rhistory
+.Rproj.user
+.RData
+.DS_Store
+
+# keep structure but ignore large data
+data/*
+!data/README_data.md
+!data/subsets/
+
+# results: keep small PNG/PDF and tables
+results/tables/*.tsv

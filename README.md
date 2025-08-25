@@ -49,6 +49,11 @@ Comparison of endocardial-positive cells between Week6 reference and EMM2 organo
 
 ![Endocardial fractions](results/figures/endocardial_fractions.png)
 
+### Endothelial Subtype Composition
+Comparison of endothelial subtype composition between the EMM2/1 organoid and the week 5 referance data.
+
+![Endothelial Subtypes](results/figures/subtype_composition.png)
+
   ## 📌 Reproducibility
 - R version: 4.3+  
 - Key packages: `Seurat`, `Matrix`, `data.table`, `ggplot2`  

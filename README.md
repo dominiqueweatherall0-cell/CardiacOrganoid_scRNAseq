@@ -42,6 +42,13 @@ The analysis was performed independently to explore vascularization defects in e
 - **Endocardial co-expression fractions**  
   *(add `results/figures/endocardial_fractions.png`)*
 
+  ## Results
+
+### Endocardial Fractions
+Comparison of endocardial-positive cells between Week6 reference and EMM2 organoids.
+
+![Endocardial fractions](results/figures/endocardial_fractions.png)
+
   ## 📌 Reproducibility
 - R version: 4.3+  
 - Key packages: `Seurat`, `Matrix`, `data.table`, `ggplot2`  

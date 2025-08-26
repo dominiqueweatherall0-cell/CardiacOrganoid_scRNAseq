@@ -51,7 +51,7 @@ Comparison of endothelial subtype composition between the week 6 referance data 
 ### Feture Plot of Shear Stress Mechanoreceptor Pathway and Fenestrated ECs
 Feature plot displaying the expression of the shear stress mechano receptor pathway and fenestrated ECs within EC clusters.
 
-![Feature_Plot](results/figures/Feature_Plot.png)
+![Feature_Plot](results/figures/Feature_Plots.png)
 
   ## 📌 Reproducibility
 - R version: 4.3+  

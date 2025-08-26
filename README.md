@@ -29,7 +29,7 @@ The analysis was performed independently to explore vascularization defects in e
 ## 📈 Results (selected figures)
 
 ### Condition-level UMAP
-UMAP of organoid and week 6 reference clusters.
+UMAP of organoid and week 6 reference EC clusters.
 
 ![UMAP_Conditions](results/figures/umap_conditions.png)
 

@@ -52,7 +52,7 @@ UMAP of organoid and week 6 reference clusters.
 ### UMAP: Endothelial Subtypes
 UMAP of endothelial cell subtypes between both datasets.
 
-![UMAP_Ebdothelial_Subtypes](results/figures/umap_subtypes.png)
+![UMAP_Ebdothelial_Subtypes](results/figures/umap_ECsubtypes.png)
 
 ### Endocardial Fractions
 Comparison of endocardial-positive cells between Week6 reference and EMM2 organoids.

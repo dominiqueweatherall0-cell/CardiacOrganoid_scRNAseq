@@ -26,23 +26,7 @@ The analysis was performed independently to explore vascularization defects in e
 
 *(QC violin plot placeholder — add figure as `results/figures/qc_violin.png`)*
 
----
-
 ## 📈 Results (selected figures)
-
-- **UMAP: Endothelial Subtypes**  
-  *(add `results/figures/umap_subtypes.png`)*  
-
-- **Condition-level UMAP**  
-  *(add `results/figures/umap_conditions.png`)*  
-
-- **Subtype composition barplot**  
-  *(add `results/figures/subtype_composition.png`)*  
-
-- **Endocardial co-expression fractions**  
-  *(add `results/figures/endocardial_fractions.png`)*
-
-  ## Results
 
 ### Condition-level UMAP
 UMAP of organoid and week 6 reference clusters.

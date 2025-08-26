@@ -12,7 +12,7 @@ The analysis was performed independently to explore vascularization defects in e
 
 ## 🔬 Data Sources
 - **Reference dataset**: GSE106118 (Week-6 fetal heart)  
-- **Organoid datasets**: GSE218582 (Control, EMM1, EMM2, MM)  
+- **Organoid datasets**: GSE218582 (Control, EMM1, EMM2/1, MM)  
 
 ---
 

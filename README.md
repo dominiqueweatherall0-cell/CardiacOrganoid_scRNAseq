@@ -44,6 +44,11 @@ The analysis was performed independently to explore vascularization defects in e
 
   ## Results
 
+### Condition-level UMAP
+UMAP of organoid and week 6 reference clusters.
+
+![UMAP_Conditions](results/figures/umap_conditions.png)
+
 ### Endocardial Fractions
 Comparison of endocardial-positive cells between Week6 reference and EMM2 organoids.
 
